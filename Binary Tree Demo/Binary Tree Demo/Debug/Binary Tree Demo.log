@@ -1,0 +1,9 @@
+﻿  Binary_Tree.cpp
+  Source.cpp
+C:\Users\Zack Driscoll\Desktop\C++ Programming II\Binary Tree Demo\Binary Tree Demo\Source.cpp(29,15): error C2660: 'Binary_Tree::PreTrav': function does not take 0 arguments
+C:\Users\Zack Driscoll\Desktop\C++ Programming II\Binary Tree Demo\Binary Tree Demo\Binary_Tree.h(16,7): message : see declaration of 'Binary_Tree::PreTrav'
+C:\Users\Zack Driscoll\Desktop\C++ Programming II\Binary Tree Demo\Binary Tree Demo\Source.cpp(33,14): error C2660: 'Binary_Tree::InTrav': function does not take 0 arguments
+C:\Users\Zack Driscoll\Desktop\C++ Programming II\Binary Tree Demo\Binary Tree Demo\Binary_Tree.h(17,7): message : see declaration of 'Binary_Tree::InTrav'
+C:\Users\Zack Driscoll\Desktop\C++ Programming II\Binary Tree Demo\Binary Tree Demo\Source.cpp(37,16): error C2660: 'Binary_Tree::PostTrav': function does not take 0 arguments
+C:\Users\Zack Driscoll\Desktop\C++ Programming II\Binary Tree Demo\Binary Tree Demo\Binary_Tree.h(18,7): message : see declaration of 'Binary_Tree::PostTrav'
+  Generating Code...
